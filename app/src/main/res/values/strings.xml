@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gaming Center</string>
+    <string name="site_url">https://gamingcenter.ly/</string>
+    <string name="no_internet_title">لا يوجد اتصال بالإنترنت</string>
+    <string name="no_internet_desc">تأكد من اتصالك بالإنترنت وحاول مرة أخرى</string>
+    <string name="retry">إعادة المحاولة</string>
+    <string name="whatsapp_number">218928112721</string>
+</resources>
